@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculo IMC &amp; Peso Ideal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ImcTitle">IMC</string>
+    <string name="ImcDesc">Cálculo do índice de massa corporal</string>
+    <string name="ImcCalcular">Calcular</string>
+    <string name="ImcSobre">Sobre</string>
+    <string name="ImcResultado">Seu IMC é:</string>
+    <string name="ImcResultadoPadrao">0.0</string>
+    <string name="ImcRsultadoDescritivo" />
+    <string name="ImcBotaoSobre">O Índice de Massa Corporal é uma medida utilizada para medir a obesidade adotada pela Organização Mundial de Saúde (OMS). É o padrão internacional para avaliar o grau de obesidade.</string>
+    <string name="ImcRdButtonMasc">Masculino</string>
+    <string name="ImcRdButtonFem">Feminino</string>
+</resources>
